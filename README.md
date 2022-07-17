@@ -23,6 +23,7 @@
 
 <p>Design credits: </p>
 
+<<<<<<< HEAD
   <p>Prologue by HTML5 UP<br>
 html5up.net | @ajlkn<br>
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)<br>
@@ -37,3 +38,13 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 
+=======
+<p>
+<font size="-2">
+Design credits: Prologue by HTML5 UP<br>
+html5up.net | @ajlkn<br>
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)<br>
+** see design_credits_html5UP.txt for more details **<br>
+</font>
+</p>
+>>>>>>> 1f076adf19e9395ded6faca08d86553ad2d72e20
