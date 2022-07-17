@@ -1,4 +1,4 @@
-]
+
 <p>I've created this site to share some information about myself, and to assist in learning how to use git/GitHub.</p>
 
 
