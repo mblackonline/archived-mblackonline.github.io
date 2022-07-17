@@ -18,7 +18,7 @@
 
 
 <p>
-<font size="-1.5">
+<font size="-2">
 Design credits: Prologue by HTML5 UP<br>
 html5up.net | @ajlkn<br>
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)<br>
