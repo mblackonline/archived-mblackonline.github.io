@@ -1,4 +1,4 @@
-## I've created this site to share some information about myself, and to assist in learning how to use git/GitHub.
+## I created this site to improve my knowledge about web development, share my knowledge with others, and connect with other people who are passionate about technology.
 
 
 <br>
