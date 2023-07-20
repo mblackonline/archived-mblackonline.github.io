@@ -259,10 +259,18 @@ input, select, textarea {
 		}
 
 	.contact-text {
-		text-align: left;
-		text-indent: 350px;
+		margin: 0 auto;
+		max-width: 100%;
+		width: 1400px;
+		text-align: center;
 	}
 	
+	.contact-text div {
+		text-align: left;
+		padding-left: 350px;
+		margin-bottom: 5px;
+	  }
+
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.contact-text {
