@@ -263,6 +263,16 @@ input, select, textarea {
         padding-left: 390px;
       }
       
+			.contact-text div {
+				margin-bottom: 5px;
+			}
+
+			/* Adjust padding for smaller screens */
+		@media only screen and (max-width: 600px) {
+			.contact-text {
+	  			padding-left: 0;
+			}
+  		}
 
 /* Row */
 
