@@ -259,16 +259,16 @@ input, select, textarea {
 		}
 
 	.contact-text {
+		text-align: center;
+		padding-left: 10px;
+		max-width: 90%;
 		margin: 0 auto;
-		max-width: 100%;
-		width: 1400px;
-		text-align: left;
 	}
-	
-	.contact-text div {
-		padding-left: 300px;
-		margin-bottom: 5px;
-	  }
+		  
+		  .contact-text div {
+			text-align: center;
+			margin-bottom: 5px;
+		  }
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
