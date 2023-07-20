@@ -262,12 +262,47 @@ input, select, textarea {
 		text-align: left;
 		text-indent: 350px;
 	}
-		  
-		  @media only screen and (max-width: 600px) {
+	
+		@media screen and (min-width: 961px) and (max-width: 1880px) {
+
+			.contact-text {
+				width: 1200px;
+			}
+
+		}
+
+		@media screen and (min-width: 961px) and (max-width: 1620px) {
+
+			.contact-text {
+				width: 960px;
+			}
+
+		}
+
+		@media screen and (min-width: 961px) and (max-width: 1320px) {
+
 			.contact-text {
 				width: 100%;
 			}
-		  }
+
+		}
+
+		@media screen and (max-width: 960px) {
+
+			.contact-text {
+				width: 100%;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.contact-text {
+				width: 100%;
+			}
+
+		}
+
 
 /* Row */
 
