@@ -267,6 +267,7 @@ input, select, textarea {
 		  .contact-text div {
 			text-align: center;
 			margin-bottom: 5px;
+			margin-right: auto;
 		  }
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
@@ -301,7 +302,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 600px) {
 
 			.contact-text {
 				width: 100%;
