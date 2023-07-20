@@ -258,14 +258,14 @@ input, select, textarea {
 
 		}
 
-		.contact-text {
-			text-align: left;
-			text-indent: 350px;
-		  }
+	.contact-text {
+		text-align: left;
+		text-indent: 350px;
+	}
 		  
 		  @media only screen and (max-width: 600px) {
 			.contact-text {
-			  text-indent: 0;
+				width: 100%;
 			}
 		  }
 
